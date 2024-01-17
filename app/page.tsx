@@ -15,7 +15,7 @@ export default function Home() {
         <Explore />
         <Live />
         <GreatesOutdoors
-          img={GreatesOutdoorsImg}
+          img="../public/pexels-photo-355770.jpeg"
           title="The Greatest Outdoors"
           desc="Wishlists curated by Airbnb"
           linkText="Git Inspired"
